@@ -1,1 +1,1 @@
-# designed to send mails regardinf unreasonable fee structure
+# designed to send mails regarding unreasonable fee structure
